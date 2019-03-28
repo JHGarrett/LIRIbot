@@ -1,7 +1,5 @@
 require("dotenv").config();
 var keys = require("./keys.js");
-
-
 var Spotify = require('node-spotify-api');
 var axios = require("axios")
 var moment = require("moment")
@@ -12,7 +10,7 @@ var spotify = new Spotify(keys.spotify);
 
 
 // user input must be in lower case per bandsintown api
-var command = process.argv[2];
+var command = process.argv[2].toLowerCase();
 var data = process.argv.slice(3).join(" ");
 
 
