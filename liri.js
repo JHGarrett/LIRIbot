@@ -1,10 +1,11 @@
 require("dotenv").config();
+var fs = require("fs");
 var chalk = require('chalk');
 var keys = require("./keys.js");
 var Spotify = require('node-spotify-api');
 var axios = require("axios")
 var moment = require("moment")
-var fs = require("fs");
+
 
 // spotify package
 var spotify = new Spotify(keys.spotify);
@@ -42,6 +43,8 @@ function spotifyThisSong(song){
     })
 
 }
+jwefkgjer
+
 
 
 
