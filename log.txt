@@ -157,3 +157,320 @@ spotify-this-song
                Album Name: Backing Tracks / Pop Artists Index, A, (Acdc / Ace / Ace Hood & Trey Songz / Ace of Base), Volume 9
                ===============================
                
+concert-this Travis Scott
+Bands in Town Results
+===========================
+concert-this Bring Me the Horizon
+Bands in Town Results
+Bring Me the Horizon is performing @ Lollapalooza Chile 29-31 on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Parque de la Exposición on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Audio on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Lollapalooza Brasil 5-7 on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Entertainment Centre on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Qudos Bank Arena on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Rod Laver Arena on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Welcome To Rockville 3-5 on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Metropolitan Park on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Stage AE on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ The Eagles Ballroom on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Metropolitan Opera House on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Epicenter Festival 10-12 on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Mecu Pavilion on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ North Carolina Speedway on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ The Pageant on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Egyptian Room on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ RBC Echo Beach on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ 20 Monroe Live on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Sonic Temple Festival 17-19 on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ BBC Radio 1's Big Weekend on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ The Dome on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ All Points East on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Rock im Park 07-09 on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Rock Am Ring 07-09 on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Pinkpop Festival on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Pinkpop Festival 08-10 on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Megaland on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Rock Werchter 27-30 on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Provinssi on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Lollapalooza 28-29 on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Rock For People 4-6 on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Roskilde Festival Memorial on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Main Square Festival on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Park Live Festival on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Chizhovka Arena on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ U Park Festival 16-18 on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Electric Castle Festival 17-21 on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Bologna Sonic Park on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Lollapalooza 01-04 on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Summer Sonic Festival on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Summer Sonic Festival on Friday, March 29, 2019 8:36 PM
+Bring Me the Horizon is performing @ Rock en Seine on Friday, March 29, 2019 8:36 PM
+===========================
+concert-this 
+Bands in Town Results
+Sorry, that Band must be lame because I couldn't find it.
+ ===========================
+movie-this 
+
+           OMDB Results
+           Title Name: Mr. Nobody
+           Year:  2009
+           IMDB Rating: 7.8
+           Rotten Tomato Rating: 67%
+           Country Produced: Belgium, Germany, Canada, France, USA, UK      
+           Languages: undefined     
+           Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+           Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+           ===============================           
+            
+movie-this 
+
+           OMDB Results
+           Title Name: Mr. Nobody
+           Year:  2009
+           IMDB Rating: 7.8
+           Rotten Tomato Rating: 67%
+           Country Produced: Belgium, Germany, Canada, France, USA, UK      
+           Languages: undefined     
+           Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+           Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+           ===============================           
+            
+concert-this 
+Bands in Town Results
+Sorry, that Band must be lame because I couldn't find it.
+ ===========================
+movie-this Stranger than fiction
+
+           OMDB Results
+           Title Name: Stranger Than Fiction
+           Year:  2006
+           IMDB Rating: 7.6
+           Rotten Tomato Rating: 72%
+           Country Produced: USA      
+           Languages: undefined     
+           Plot: An I.R.S. auditor suddenly finds himself the subject of narration only he can hear: narration that begins to affect his entire life, from his work, to his love-interest, to his death.
+           Actors: Will Ferrell, William Dick, Guy Massey, Martha Espinoza
+           ===============================           
+            
+movie-this Brothers
+
+           OMDB Results
+           Title Name: Brothers
+           Year:  2009
+           IMDB Rating: 7.1
+           Rotten Tomato Rating: 63%
+           Country Produced: USA      
+           Languages: undefined     
+           Plot: A young man comforts his older brother's wife and children after he goes missing in Afghanistan.
+           Actors: Tobey Maguire, Jake Gyllenhaal, Natalie Portman, Sam Shepard
+           ===============================           
+            
+movie-this 
+
+           OMDB Results
+           Title Name: Mr. Nobody
+           Year:  2009
+           IMDB Rating: 7.8
+           Rotten Tomato Rating: 67%
+           Country Produced: Belgium, Germany, Canada, France, USA, UK      
+           Languages: undefined     
+           Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+           Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+           ===============================           
+            
+spotify-this-song Throne
+
+               Spotify Results
+               Track Name:    Throne
+               Artists:  Bring Me The Horizon
+               Preview Link: https://api.spotify.com/v1/tracks/0M3adYbGtyRHACP86dey1H
+               Album Name: That's The Spirit
+               ===============================
+               
+spotify-this-song Sicko Mode
+
+               Spotify Results
+               Track Name:    SICKO MODE
+               Artists:  Travis Scott
+               Preview Link: https://api.spotify.com/v1/tracks/2xLMifQCjDGFmkHkpNLD9h
+               Album Name: ASTROWORLD
+               ===============================
+               
+spotify-this-song 
+
+               Spotify Results
+               Track Name:    It's a Long Way to the Top - Karaoke Version
+               Artists:  BT Band
+               Preview Link: https://api.spotify.com/v1/tracks/3CpYatmHWMQAEJ40U3s3uQ
+               Album Name: Backing Tracks / Pop Artists Index, A, (Acdc / Ace / Ace Hood & Trey Songz / Ace of Base), Volume 9
+               ===============================
+               
+do-what-it-says 
+
+               Spotify Results
+               Track Name:    I Want It That Way
+               Artists:  Backstreet Boys
+               Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+               Album Name: The Hits--Chapter One
+               ===============================
+               
+concert-this Drake
+Bands in Town Results
+Drake is performing @ The O2 on Friday, March 29, 2019 8:43 PM
+Drake is performing @ The O2 on Friday, March 29, 2019 8:43 PM
+Drake is performing @ The O2 on Friday, March 29, 2019 8:43 PM
+Drake is performing @ The O2 on Friday, March 29, 2019 8:43 PM
+Drake is performing @ The O2 Arena on Friday, March 29, 2019 8:43 PM
+Drake is performing @ The O2 Arena on Friday, March 29, 2019 8:43 PM
+Drake is performing @ The O2 Arena on Friday, March 29, 2019 8:43 PM
+Drake is performing @ Ziggo Dome on Friday, March 29, 2019 8:43 PM
+Drake is performing @ Ziggo Dome on Friday, March 29, 2019 8:43 PM
+Drake is performing @ SPORTPALEIS on Friday, March 29, 2019 8:43 PM
+Drake is performing @ Ziggo Dome on Friday, March 29, 2019 8:43 PM
+Drake is performing @ Ziggo Dome on Friday, March 29, 2019 8:43 PM
+Drake is performing @ Encore Theater at Wynn Las Vegas on Friday, March 29, 2019 8:43 PM
+Drake is performing @ XS Nightclub on Friday, March 29, 2019 8:43 PM
+Drake is performing @ Cidade do Rock on Friday, March 29, 2019 8:43 PM
+===========================
+concert-this Bring Me the Horizon
+Bands in Town Results
+Bring Me the Horizon is performing @ Lollapalooza Chile 29-31 on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Parque de la Exposición on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Audio on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Lollapalooza Brasil 5-7 on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Entertainment Centre on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Qudos Bank Arena on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Rod Laver Arena on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Welcome To Rockville 3-5 on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Metropolitan Park on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Stage AE on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ The Eagles Ballroom on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Metropolitan Opera House on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Epicenter Festival 10-12 on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Mecu Pavilion on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ North Carolina Speedway on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ The Pageant on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Egyptian Room on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ RBC Echo Beach on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ 20 Monroe Live on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Sonic Temple Festival 17-19 on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ BBC Radio 1's Big Weekend on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ The Dome on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ All Points East on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Rock im Park 07-09 on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Rock Am Ring 07-09 on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Pinkpop Festival on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Pinkpop Festival 08-10 on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Megaland on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Rock Werchter 27-30 on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Provinssi on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Lollapalooza 28-29 on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Rock For People 4-6 on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Roskilde Festival Memorial on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Main Square Festival on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Park Live Festival on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Chizhovka Arena on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ U Park Festival 16-18 on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Electric Castle Festival 17-21 on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Bologna Sonic Park on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Lollapalooza 01-04 on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Summer Sonic Festival on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Summer Sonic Festival on Friday, March 29, 2019 8:43 PM
+Bring Me the Horizon is performing @ Rock en Seine on Friday, March 29, 2019 8:43 PM
+===========================
+concert-this 
+Bands in Town Results
+Sorry, that Band must be lame because I couldn't find it.
+ ===========================
+movie-this Brothers
+
+           OMDB Results
+           Title Name: Brothers
+           Year:  2009
+           IMDB Rating: 7.1
+           Rotten Tomato Rating: 63%
+           Country Produced: USA      
+           Languages: undefined     
+           Plot: A young man comforts his older brother's wife and children after he goes missing in Afghanistan.
+           Actors: Tobey Maguire, Jake Gyllenhaal, Natalie Portman, Sam Shepard
+           ===============================           
+            
+movie-this Stranger than fiction
+
+           OMDB Results
+           Title Name: Stranger Than Fiction
+           Year:  2006
+           IMDB Rating: 7.6
+           Rotten Tomato Rating: 72%
+           Country Produced: USA      
+           Languages: undefined     
+           Plot: An I.R.S. auditor suddenly finds himself the subject of narration only he can hear: narration that begins to affect his entire life, from his work, to his love-interest, to his death.
+           Actors: Will Ferrell, William Dick, Guy Massey, Martha Espinoza
+           ===============================           
+            
+movie-this 
+
+           OMDB Results
+           Title Name: Mr. Nobody
+           Year:  2009
+           IMDB Rating: 7.8
+           Rotten Tomato Rating: 67%
+           Country Produced: Belgium, Germany, Canada, France, USA, UK      
+           Languages: undefined     
+           Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+           Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+           ===============================           
+            
+spotify-this-song Throne
+
+               Spotify Results
+               Track Name:    Throne
+               Artists:  Bring Me The Horizon
+               Preview Link: https://api.spotify.com/v1/tracks/0M3adYbGtyRHACP86dey1H
+               Album Name: That's The Spirit
+               ===============================
+               
+spotify-this-song Sicko Mode
+
+               Spotify Results
+               Track Name:    SICKO MODE
+               Artists:  Travis Scott
+               Preview Link: https://api.spotify.com/v1/tracks/2xLMifQCjDGFmkHkpNLD9h
+               Album Name: ASTROWORLD
+               ===============================
+               
+spotify-this-song 
+
+               Spotify Results
+               Track Name:    It's a Long Way to the Top - Karaoke Version
+               Artists:  BT Band
+               Preview Link: https://api.spotify.com/v1/tracks/3CpYatmHWMQAEJ40U3s3uQ
+               Album Name: Backing Tracks / Pop Artists Index, A, (Acdc / Ace / Ace Hood & Trey Songz / Ace of Base), Volume 9
+               ===============================
+               
+do-what-it-says 
+
+               Spotify Results
+               Track Name:    I Want It That Way
+               Artists:  Backstreet Boys
+               Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+               Album Name: The Hits--Chapter One
+               ===============================
+               
+do-what-it-says 
+Bands in Town Results
+All that remains is performing @ The Historic El Rey Theater on Friday, March 29, 2019 8:44 PM
+All that remains is performing @ Come and Take It Live on Friday, March 29, 2019 8:44 PM
+All that remains is performing @ Gas Monkey Bar N' Grill on Friday, March 29, 2019 8:44 PM
+All that remains is performing @ Diamond Ballroom on Friday, March 29, 2019 8:44 PM
+All that remains is performing @ The District on Friday, March 29, 2019 8:44 PM
+All that remains is performing @ CLUB LA on Friday, March 29, 2019 8:44 PM
+All that remains is performing @ Hard Rock Live on Friday, March 29, 2019 8:44 PM
+All that remains is performing @ The Blind Tiger on Friday, March 29, 2019 8:44 PM
+All that remains is performing @ Canal Club on Friday, March 29, 2019 8:44 PM
+All that remains is performing @ Pipestem Event Center on Friday, March 29, 2019 8:44 PM
+All that remains is performing @ Heavy Montreal on Friday, March 29, 2019 8:44 PM
+All that remains is performing @ Darling's Waterfront Pavilion on Friday, March 29, 2019 8:44 PM
+All that remains is performing @ The Valley Drive In on Friday, March 29, 2019 8:44 PM
+===========================
