@@ -1,4 +1,5 @@
 require("dotenv").config();
+var fs = require("fs");
 var chalk = require('chalk');
 var keys = require("./keys.js");
 var fs = require("fs");
